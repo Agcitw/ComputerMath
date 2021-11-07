@@ -1,0 +1,14 @@
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\bin\Debug\netcoreapp3.1\ComputerMath.exe
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\bin\Debug\netcoreapp3.1\ComputerMath.deps.json
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\bin\Debug\netcoreapp3.1\ComputerMath.runtimeconfig.json
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\bin\Debug\netcoreapp3.1\ComputerMath.runtimeconfig.dev.json
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\bin\Debug\netcoreapp3.1\ComputerMath.dll
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\bin\Debug\netcoreapp3.1\ComputerMath.pdb
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\obj\Debug\netcoreapp3.1\ComputerMath.csproj.AssemblyReference.cache
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\obj\Debug\netcoreapp3.1\ComputerMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\obj\Debug\netcoreapp3.1\ComputerMath.AssemblyInfoInputs.cache
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\obj\Debug\netcoreapp3.1\ComputerMath.AssemblyInfo.cs
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\obj\Debug\netcoreapp3.1\ComputerMath.csproj.CoreCompileInputs.cache
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\obj\Debug\netcoreapp3.1\ComputerMath.dll
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\obj\Debug\netcoreapp3.1\ComputerMath.pdb
+C:\Users\anton\RiderProjects\ComputerMath\ComputerMath\obj\Debug\netcoreapp3.1\ComputerMath.genruntimeconfig.cache
